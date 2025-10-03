@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Divide Bill APP</string>
+    <string name="quantity">Quantity</string>
+    <string name="person">Persons</string>
+    <string name="tip">Round tip</string>
+    <string name="Valoration">Valoration</string>
+    <string name="Calculate">Calculate</string>
+    <string name="TotalCount">Total Count</string>
+    <string name="Eachone">Each one</string>
+</resources>

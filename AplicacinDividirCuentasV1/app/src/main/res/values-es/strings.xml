@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion Dividir Cuentas</string>
+    <string name="quantity">Cantidad</string>
+    <string name="person">Comensales</string>
+    <string name="tip">Redondear propina</string>
+    <string name="Valoration">Valoración</string>
+    <string name="Calculate">Calcular</string>
+    <string name="TotalCount">Cantidad total</string>
+    <string name="Eachone">Cada uno</string>
+</resources>
